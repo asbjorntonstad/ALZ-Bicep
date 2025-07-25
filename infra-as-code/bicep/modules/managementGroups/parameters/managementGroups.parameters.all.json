@@ -6,13 +6,13 @@
       "value": "alz"
     },
     "parTopLevelManagementGroupSuffix": {
-      "value": ""
+      "value": "a"
     },
     "parTopLevelManagementGroupDisplayName": {
       "value": "Azure Landing Zones"
     },
     "parTopLevelManagementGroupParentId": {
-      "value": ""
+      "value": "1"
     },
     "parLandingZoneMgAlzDefaultsEnable": {
       "value": true
